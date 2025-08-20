@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AtividadeEmSala/AtividadeEmSala.iml" filepath="$PROJECT_DIR$/AtividadeEmSala/AtividadeEmSala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AtividadeJava/AtividadeJava.iml" filepath="$PROJECT_DIR$/AtividadeJava/AtividadeJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Lista-programaçao-PSLCP.iml" filepath="$PROJECT_DIR$/.idea/Lista-programaçao-PSLCP.iml" />
+    </modules>
+  </component>
+</project>

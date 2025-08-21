@@ -5,21 +5,18 @@ public class AtividadeSala03 {
         int resultado = 0;
 
         resultado = a + b;
-        System.out.println( resultado);
-        System.out.println("a == b ? " + (a == b));
-
+        System.out.println("a + b:" + resultado );
         resultado = a - b;
-        System.out.println( resultado);
-        System.out.println("a != b ? " + (a != b));
-
+        System.out.println("a - b:" + resultado);
         resultado = a / b;
-        System.out.println( resultado);
-        System.out.println("a >= b ? " + (a >= b));
-
+        System.out.println("a / b:" + resultado);
         resultado = a * b;
-        System.out.println( resultado);
-        System.out.println("a =< b ? " + (a <= b));
+        System.out.println("a * b:" + resultado);
 
+        System.out.println("a == b ? " + (a == b));
+        System.out.println("a != b ? " + (a != b));
+        System.out.println("a >= b ? " + (a >= b));
+        System.out.println("a =< b ? " + (a <= b));
 
     }
 }
